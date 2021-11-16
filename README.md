@@ -1,5 +1,5 @@
 # BullsAndCows
-C# Console Application where one player guesses a randomly generared secret code. 
+C# Console Application where one player guesses a randomly generated secret code. 
 
 The Objective: One player tries to guess a secret number in as few tries as possible.
 
